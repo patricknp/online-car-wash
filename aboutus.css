@@ -1,0 +1,28 @@
+body{
+    background-image:linear-gradient(rgba(0, 1, 7, 0.993),rgba(4, 9, 30, 0.178)) ,url(bentley.jpg);
+    background-position: 100%;
+    background-size: 100%;
+    
+}
+u{
+    color: azure;
+
+}
+p{
+    color: azure;
+}
+li{
+    color: azure;
+    font-size: large;
+}
+#center img{
+    
+}
+h1{
+    margin: 0;
+    padding: 0;
+    color: azure;
+    font-size: 28px;
+    nav-left: current;
+}
+

@@ -1,0 +1,95 @@
+/* a{
+    font-size: 30px;
+    color: seagreen;
+}
+.cont {
+    display: flex;
+    height: 50%;
+    width: 50%;
+    margin: 100px;
+}
+input {
+    height: 5px;
+    padding: 20px;
+    width: 100px;
+}
+body{
+    background: linear-gradient(to left,rgb(212, 228, 66),rgba(255, 5, 5, 0.5));
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+#momo{
+    background-color: rgb(245, 230, 26);
+}
+#tcash{
+    background-color: rgb(248, 73, 73);
+} */
+
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(bentley.jpg);
+    background-position: 100%;
+}
+
+div.container {
+    display: grid;
+    border: 1px solid green;
+    padding: 20px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 7);
+    font-family: arial;
+}
+
+div.container input {
+    margin: 20px;
+    width: 34vw;
+    height: 4vh;
+    border: green;
+}
+
+#login{
+    /* padding: 15px; */
+    border: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+;
+}
+body{
+    background-color: white;
+   
+}
+input{
+    outline: none;
+    border-radius: 5px;
+}
+.container{
+    border: black;
+}
+div{
+    background-color:rgba(15, 1, 1, 0.397);
+}

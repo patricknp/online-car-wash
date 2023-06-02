@@ -1,0 +1,11 @@
+body{
+    background-image: url(bentley.jpg);
+}
+
+.image{
+    position: absolute;
+    width: 685px;
+    height: 288px;
+    
+    background: url(10im);
+}
